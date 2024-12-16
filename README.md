@@ -1,0 +1,2 @@
+# ToastPlugin
+Sample capacitor plugin 
